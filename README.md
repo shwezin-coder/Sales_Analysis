@@ -2,6 +2,12 @@
 
 ### Project Overview
 This project involves the analysis of sales data from the Microsoft Data Warehouse sample database using SQL and Power BI. The aim was to gain insights into the sales data and provide valuable information for decision-making.
+![image](https://github.com/shwezin-coder/Sales_Analysis/assets/70483157/7c04603c-0999-496f-83e6-3dcbc319c59f)
+![image](https://github.com/shwezin-coder/Sales_Analysis/assets/70483157/78963a16-ba7e-4c64-8411-0a649459d28c)
+![image](https://github.com/shwezin-coder/Sales_Analysis/assets/70483157/594f4fb3-1f47-4358-8f8c-5bb387b9589f)
+
+
+
 
 ### Key Findings
 Here are some of the key findings from the analysis:
